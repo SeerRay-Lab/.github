@@ -4,6 +4,8 @@ Frontier research on Visual Intelligence: see further, build together.
 
 ## Research
 
+We are the Visual Understanding Group at Xiaomi ([@XiaoMi](https://github.com/XiaoMi) · [@xiaomi-research](https://github.com/xiaomi-research)).
+
 We study how AI systems perceive, understand, and interact with the visual world. Our research spans multimodal reasoning, document understanding, and GUI agents, with an emphasis on learning and evaluation in real-world settings.
 
 ## Projects
