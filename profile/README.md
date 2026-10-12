@@ -1,7 +1,5 @@
 # SeerRay-Lab
 
-Frontier research on Visual Intelligence: see further, build together.
-
 ## Research
 
 We are the Visual Understanding Group within Xiaomi's Large Language Model (LLM) Applications Team ([@XiaoMi](https://github.com/XiaoMi) · [@xiaomi-research](https://github.com/xiaomi-research)).
